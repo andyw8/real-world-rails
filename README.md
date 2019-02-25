@@ -24,6 +24,7 @@ cd real-world-rails/
 
 # The Rails apps are linked to as git submodules.
 # This will take some time...(see comment below for possible speedup)
+# The total filesize is around 3GB.
 git submodule update --init
 
 # OR If you've got git 2.9+ installed try to run updates in parallel:
